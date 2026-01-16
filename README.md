@@ -4,9 +4,17 @@ A top-down survival shooter game built with **JavaScript/Phaser.js**. Control Sm
 
 > **Note:** The original Python/Pygame version is available in the [`pygame-version`](https://github.com/drbillwang/Rage-of-Chinchilla-Game/tree/pygame-version) branch.
 
-## 🎮 How to Play
+## 🎮 Play Online
 
-### Quick Start
+### 🕹️ [Click here to play now!](https://drbillwang.github.io/Rage_of_Chinchilla_Game_Online/)
+
+**Game URL:** https://drbillwang.github.io/Rage_of_Chinchilla_Game_Online/
+
+No download required! Just click the link above and start playing in your browser.
+
+### Local Development (Optional)
+
+If you want to run the game locally for development:
 
 1. **Clone or download** this repository
 2. **Start a local server** in the project root directory:
@@ -24,8 +32,6 @@ A top-down survival shooter game built with **JavaScript/Phaser.js**. Control Sm
    ```
    http://localhost:9000
    ```
-
-That's it! The game should load automatically.
 
 ## 🎯 Controls
 
@@ -77,13 +83,13 @@ Rage-of-Chinchilla-Game/
 └── fonts/              # Custom fonts
 ```
 
-## 🚀 Deploy to GitHub Pages
+## 🌐 Online Game
 
-This repository is ready for GitHub Pages! Just enable it in your repository settings:
+This game is hosted on GitHub Pages and is available to play online at:
 
-1. Go to **Settings** → **Pages**
-2. Select **Source**: `main` branch
-3. The game will be available at: `https://yourusername.github.io/Rage-of-Chinchilla-Game/`
+**🔗 https://drbillwang.github.io/Rage_of_Chinchilla_Game_Online/**
+
+No installation or setup required - just click and play!
 
 ## 🐍 Python Version
 
